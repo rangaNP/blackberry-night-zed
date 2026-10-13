@@ -1,0 +1,7 @@
+id = "blackberry-night-theme"
+name = "Blackberry Night"
+version = "1.0.0"
+schema_version = 1
+authors = ["rangaNP"]
+description = "Meet the Black!"
+repository = "https://github.com/rangaNP/blackberry-night-zed"
